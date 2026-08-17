@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="docs/images/banner.jpg" alt="BOOX Remote — Control your BOOX from macOS" width="100%">
-</p>
+![BOOX Remote — Control your BOOX from macOS](./docs/images/banner.jpg)
 
 <p align="center">
   <strong>A tiny native macOS launcher for scrcpy, built for BOOX tablets.</strong>
@@ -15,16 +13,9 @@
 
 ## Screenshots
 
-<table>
-  <tr>
-    <th>USB connection</th>
-    <th>Wi-Fi connection</th>
-  </tr>
-  <tr>
-    <td><img src="docs/images/app-usb.png" alt="BOOX Remote connected over USB"></td>
-    <td><img src="docs/images/app-wifi.png" alt="BOOX Remote Wi-Fi connection with an ADB address"></td>
-  </tr>
-</table>
+| USB connection | Wi-Fi connection |
+| :---: | :---: |
+| ![BOOX Remote connected over USB](./docs/images/app-usb.png) | ![BOOX Remote Wi-Fi connection with an ADB address](./docs/images/app-wifi.png) |
 
 A lightweight native macOS launcher for controlling a BOOX tablet with [scrcpy](https://github.com/Genymobile/scrcpy), over USB or Wi-Fi. It wraps the usual ADB and scrcpy commands in a simple SwiftUI interface and does not open a Terminal window.
 
